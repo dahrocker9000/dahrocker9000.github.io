@@ -1,0 +1,72 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
+body {
+  background-color: 09C2E3;
+}
+ 
+
+.profile {
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.imagePosition {
+    height: 350px;
+    width: 350px;
+    border: solid 5px cyan;
+    border-radius: 30px;
+
+}
+
+hr {
+    color: yellow;
+    height: 5px;
+    
+}
+
+h3 {
+    color: green;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+
+.imagePositions {
+    height: 100px;
+    width: 100px;
+    align-items: center;
+}
+
+.profilen {
+    display: flex;
+align-items: left;
+justify-content: left;
+}
+
+h4 {
+    color: white;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+  
+head {
+@media screen and (min-width: 541px) and (max-width: 600px){*{font-size:7.5px;}}
+@media screen and (min-width: 481px) and (max-width: 540px){*{font-size:6.75px;}}
+@media screen and (min-width: 361px) and (max-width: 480px){*{font-size:6px;}}
+@media screen and (min-width: 321px) and (max-width: 360px){*{font-size:4.5px;}}
+}
+
+
+h5 {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    
+}
+  
