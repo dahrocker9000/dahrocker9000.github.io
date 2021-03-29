@@ -41,6 +41,13 @@ h3 {
     align-items: center;
 }
 
+.imagePositionss {
+    height: 380px;
+    width: 690px;
+    align-items: center;
+}
+
+
 .profilen {
     display: flex;
 align-items: left;
