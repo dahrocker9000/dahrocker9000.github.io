@@ -22,9 +22,16 @@ justify-content: center;
 }
 
 hr {
-    color: yellow;
-    height: 5px;
-    
+    width: 80%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 80px;
+    margin-bottom:90px;
+    background-color:#555;
+
+
 }
 
 h3 {
