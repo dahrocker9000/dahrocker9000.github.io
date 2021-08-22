@@ -13,10 +13,24 @@ align-items: center;
 justify-content: center;
 }
 
+.imagecall {
+    display: flex;
+align-items: left;
+justify-content: left;
+}
+
 .imagePosition {
     height: 350px;
     width: 350px;
     border: solid 5px #002E6E;
+    border-radius: 30px;
+
+}
+
+.imageShowcase {
+    height: 1920px;
+    width: 874px;
+    border: solid 3px #002E6E;
     border-radius: 30px;
 
 }
