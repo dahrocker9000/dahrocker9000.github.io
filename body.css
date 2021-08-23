@@ -15,12 +15,13 @@ justify-content: center;
 
 .imagecall {
     display: flex;
-align-content: center;
+flex-direction: column;
 }
 
 .imagetext {
     display: flex;
-align-content: right;
+flex-direction: column-reverse;
+
 }
 
 
@@ -77,8 +78,8 @@ h3 {
 
 .profilen {
     display: flex;
-align-items: center;
-justify-content: center;
+align-items: left;
+justify-content: left;
 }
 
 h4 {
