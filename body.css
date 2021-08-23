@@ -21,6 +21,8 @@ justify-content: left;
 .imagetext {
     display: flex;
  justify-content: right;
+ text-align: right;
+ align-self: right;
 }
 
 
