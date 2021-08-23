@@ -13,44 +13,7 @@ align-items: center;
 justify-content: center;
 }
 
-.image1 {
-    display: flex;
-align-items: left;
-}
 
-.image2 {
-    display: flex;
-align-items: right;
-
-}
-
-.image3 {
-    display: flex;
-align-items: left;
-}
-
-.image4 {
-    display: flex;
-align-items: right;
-
-}
-
-.image5 {
-    display: flex;
-align-items: left;
-}
-
-.image6 {
-    display: flex;
-align-items: right;
-
-}
-
-.image7 {
-    display: flex;
-align-items: right;
-
-}
 
 .imagePosition {
     height: 350px;
@@ -61,7 +24,6 @@ align-items: right;
 }
 
 .imageShowcase {
-    align-items: right;
     height: 497px;
     width: 1080px;
     border: solid 3px #002E6E;
