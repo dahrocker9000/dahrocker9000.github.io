@@ -15,14 +15,12 @@ justify-content: center;
 
 .imagecall {
     display: flex;
-align-items: left;
 justify-content: left;
 }
 
 .imagetext {
     display: flex;
-align-items: right;
-justify-content: right;
+ justify-content: right;
 }
 
 
