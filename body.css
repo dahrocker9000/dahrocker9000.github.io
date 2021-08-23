@@ -33,6 +33,7 @@ align-content: right;
 }
 
 .imageShowcase {
+    align-items: right;
     height: 497px;
     width: 1080px;
     border: solid 3px #002E6E;
