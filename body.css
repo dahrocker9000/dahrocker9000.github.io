@@ -13,7 +13,17 @@ align-items: center;
 justify-content: center;
 }
 
+.profileleft {
+    display: flex;
+align-items: left;
+justify-content: left;
+}
 
+.profileright {
+    display: flex;
+align-items: right;
+justify-content: right;
+}
 
 .imagePosition {
     height: 350px;
