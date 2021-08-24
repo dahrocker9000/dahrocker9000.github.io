@@ -25,6 +25,38 @@ align-items: right;
 justify-content: right;
 }
 
+.profileleft2 {
+    display: flex;
+align-items: left;
+justify-content: left;
+}
+
+.profileright2 {
+    display: flex;
+align-items: right;
+justify-content: right;
+}
+
+.profileleft3 {
+    display: flex;
+align-items: left;
+justify-content: left;
+}
+
+.profileright3 {
+    display: flex;
+align-items: right;
+justify-content: right;
+}
+
+.profileleft4 {
+    display: flex;
+align-items: left;
+justify-content: left;
+}
+
+
+
 .imagePosition {
     height: 350px;
     width: 350px;
