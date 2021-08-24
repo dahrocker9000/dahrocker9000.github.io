@@ -17,44 +17,15 @@ justify-content: center;
     display: flex;
 align-items: right;
 justify-content: right;
+justify-content: flex-end;
 }
 
 .profileright {
     display: flex;
 align-items: right;
 justify-content: right;
+justify-content: flex-end;
 }
-
-.profileleft2 {
-    display: flex;
-align-items: left;
-justify-content: left;
-}
-
-.profileright2 {
-    display: flex;
-align-items: right;
-justify-content: right;
-}
-
-.profileleft3 {
-    display: flex;
-align-items: left;
-justify-content: left;
-}
-
-.profileright3 {
-    display: flex;
-align-items: right;
-justify-content: right;
-}
-
-.profileleft4 {
-    display: flex;
-align-items: left;
-justify-content: left;
-}
-
 
 
 .imagePosition {
